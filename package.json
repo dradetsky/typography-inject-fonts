@@ -1,0 +1,8 @@
+{
+  "name": "typography-inject-fonts",
+  "version": "0.0.0",
+  "description": "hax for c-r-a google fonts & typography",
+  "main": "src/index.js",
+  "author": "Daniel Radetsky <dradetsky@gmail.com>",
+  "license": "WTFPL"
+}
