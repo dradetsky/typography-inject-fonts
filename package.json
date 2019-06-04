@@ -4,5 +4,13 @@
   "description": "hax for c-r-a google fonts & typography",
   "main": "src/index.js",
   "author": "Daniel Radetsky <dradetsky@gmail.com>",
+  "homepage": "https://github.com/dradetsky/typography-inject-fonts#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dradetsky/typography-inject-fonts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dradetsky/typography-inject-fonts/issues"
+  },
   "license": "WTFPL"
 }
