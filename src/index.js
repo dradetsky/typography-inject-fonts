@@ -38,7 +38,7 @@ function getFontsStr(typography) {
 }
 
 function getFontsLink(str) {
-  const link = `<link href="${str}" rel="stylesheet" type="text/css" />`
+  const link = `<link href="//fonts.googleapis.com/css?family=${str}" rel="stylesheet" type="text/css" />`
   return link
 }
 
